@@ -1,0 +1,6 @@
+C:\Users\GC Student\Source\Repos\Lab_12_PersonClasses\Person.Library\obj\Debug\Person.Library.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Source\Repos\Lab_12_PersonClasses\Person.Library\obj\Debug\Person.Library.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\Lab_12_PersonClasses\Person.Library\bin\Debug\Person.Library.dll
+C:\Users\GC Student\Source\Repos\Lab_12_PersonClasses\Person.Library\bin\Debug\Person.Library.pdb
+C:\Users\GC Student\Source\Repos\Lab_12_PersonClasses\Person.Library\obj\Debug\Person.Library.dll
+C:\Users\GC Student\Source\Repos\Lab_12_PersonClasses\Person.Library\obj\Debug\Person.Library.pdb
